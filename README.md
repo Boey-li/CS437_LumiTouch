@@ -5,7 +5,7 @@
 LumiTouch is a project for adaptive lighting system with interactive sensors including force sensor resistor (FSR) and ultrasonic sensor. Our system is based on Raspberry Pi 4 Model B to process the pressure and distance signals and control the LEDs. 
 [Video](https://drive.google.com/file/d/1xwM0cCyaitssnh8i8X5o6ZnUSOekoxKG/view) [Report](/assets/CS437_final.pdf)
 
-![Result](/assets/results.pdf)
+![Result](assets/results.pdf)
 
 ## Hardware
 
@@ -21,19 +21,19 @@ To reproduce our system, we include our hardware list here.
 ## Usage
 
 ### Pressure detection
-'''
+```shell
 Python /src/fsr_raspberry.py
-'''
+```
 
 ### Single Light with Interactive Sensing
-'''
+```shell
 Python /src/ultrasonic.py
-'''
+```
 
 ### Multi Lights with Interactive Sensing
-'''
+```shell
 Python /src/ultrasonic_multi.py
-'''
+```
 
 ## Acknowledgement
 - [How to use Force Sensitive Resistors with a Raspberry Pi and a ADS1015 ADC](https://www.youtube.com/watch?v=SX0636jmktM)
