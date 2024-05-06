@@ -23,17 +23,17 @@ To reproduce our system, we include our hardware list here.
 
 ### Pressure detection
 ```shell
-Python /src/fsr_raspberry.py
+Python src/fsr_raspberry.py
 ```
 
 ### Single Light with Interactive Sensing
 ```shell
-Python /src/ultrasonic.py
+Python src/ultrasonic.py
 ```
 
 ### Multi Lights with Interactive Sensing
 ```shell
-Python /src/ultrasonic_multi.py
+Python src/ultrasonic_multi.py
 ```
 
 ## Acknowledgement
