@@ -3,6 +3,7 @@
 `This is a final project for CS437 (Internet of Things) Spring 2024 at UIUC`  
 
 LumiTouch is a project for adaptive lighting system with interactive sensors including force sensor resistor (FSR) and ultrasonic sensor. Our system is based on Raspberry Pi 4 Model B to process the pressure and distance signals and control the LEDs. 
+
 [Video](https://drive.google.com/file/d/1xwM0cCyaitssnh8i8X5o6ZnUSOekoxKG/view) [Report](/assets/CS437_final.pdf)
 
 ![Result](/assets/results.png)
